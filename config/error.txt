@@ -1,0 +1,3 @@
+obrisi_korisnika.phpSQLSTATE[42S02]: Base table or view not found: 1146 Table 'kpk.korisnic' doesn't exist	13-06-2019 02:36:06
+dodaj_korisnika.phpSQLSTATE[42S02]: Base table or view not found: 1146 Table 'kpk.korisnic' doesn't exist	13-06-2019 02:43:15
+dohvati_sve.phpSQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1	13-06-2019 03:09:58
