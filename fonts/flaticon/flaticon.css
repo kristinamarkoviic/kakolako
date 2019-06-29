@@ -1,0 +1,131 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:45
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon.eot");
+  src: url("Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("Flaticon.woff") format("woff"),
+       url("Flaticon.ttf") format("truetype"),
+       url("Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  	font-family: Flaticon;
+	font-style: normal;
+}
+
+.flaticon-24-hours:before { content: "\f100"; }
+.flaticon-24-hours-phone-shopping-support:before { content: "\f101"; }
+.flaticon-atm:before { content: "\f102"; }
+.flaticon-auction:before { content: "\f103"; }
+.flaticon-bag-with-discount-symbol-of-percentage:before { content: "\f104"; }
+.flaticon-baseball-cap:before { content: "\f105"; }
+.flaticon-belt-shopping-product:before { content: "\f106"; }
+.flaticon-best-choice-commercial-symbol:before { content: "\f107"; }
+.flaticon-black-bag:before { content: "\f108"; }
+.flaticon-black-female-dress:before { content: "\f109"; }
+.flaticon-black-jacket:before { content: "\f10a"; }
+.flaticon-black-male-shoe-side-view-silhouette:before { content: "\f10b"; }
+.flaticon-black-pant:before { content: "\f10c"; }
+.flaticon-black-shirt:before { content: "\f10d"; }
+.flaticon-black-shopping-bag:before { content: "\f10e"; }
+.flaticon-black-shopping-bag-tool:before { content: "\f10f"; }
+.flaticon-book-shopping-cart:before { content: "\f110"; }
+.flaticon-business-calendar-symbol-on-day-11:before { content: "\f111"; }
+.flaticon-business-user:before { content: "\f112"; }
+.flaticon-call:before { content: "\f113"; }
+.flaticon-call-center-symbol:before { content: "\f114"; }
+.flaticon-cash-buy-by-internet:before { content: "\f115"; }
+.flaticon-cash-buy-online-interface-symbol:before { content: "\f116"; }
+.flaticon-cash-coin:before { content: "\f117"; }
+.flaticon-cash-dollars-money:before { content: "\f118"; }
+.flaticon-cashbox:before { content: "\f119"; }
+.flaticon-champagne-bottles:before { content: "\f11a"; }
+.flaticon-close-sign-for-door:before { content: "\f11b"; }
+.flaticon-close-store:before { content: "\f11c"; }
+.flaticon-coat:before { content: "\f11d"; }
+.flaticon-coins-payment:before { content: "\f11e"; }
+.flaticon-coins-stacks:before { content: "\f11f"; }
+.flaticon-credit-card:before { content: "\f120"; }
+.flaticon-customer-support:before { content: "\f121"; }
+.flaticon-customer-support-symbol:before { content: "\f122"; }
+.flaticon-cutting-a-credit-card-with-scissors:before { content: "\f123"; }
+.flaticon-deal-symbol-of-thumb-up-silhouette:before { content: "\f124"; }
+.flaticon-delivery-plane-silhouette-travelling:before { content: "\f125"; }
+.flaticon-delivery-time:before { content: "\f126"; }
+.flaticon-dollar-payment:before { content: "\f127"; }
+.flaticon-down-arrow-on-shopping-cart:before { content: "\f128"; }
+.flaticon-dress-on-a-hanger:before { content: "\f129"; }
+.flaticon-dress-with-coat-black-set-for-women:before { content: "\f12a"; }
+.flaticon-drink-glass-with-an-umbrella-and-a-fruit-slice-on-border:before { content: "\f12b"; }
+.flaticon-female-party-long-dress:before { content: "\f12c"; }
+.flaticon-feminine-heel-shoe:before { content: "\f12d"; }
+.flaticon-free-shipping:before { content: "\f12e"; }
+.flaticon-free-shipping-truck:before { content: "\f12f"; }
+.flaticon-gift-box:before { content: "\f130"; }
+.flaticon-gift-box-with-ribbon:before { content: "\f131"; }
+.flaticon-glass-warning-sign-for-shopping-packages:before { content: "\f132"; }
+.flaticon-globe-symbol-for-international-shopping:before { content: "\f133"; }
+.flaticon-gold-ingots:before { content: "\f134"; }
+.flaticon-hand-pointing-on-a-monitor-screen-with-a-shopping-basket:before { content: "\f135"; }
+.flaticon-hanger:before { content: "\f136"; }
+.flaticon-help-information-button-with-a-hand-with-a-finger-pointing-on-it:before { content: "\f137"; }
+.flaticon-like-black-hand-shape:before { content: "\f138"; }
+.flaticon-long-pants:before { content: "\f139"; }
+.flaticon-male-businessman-clothes:before { content: "\f13a"; }
+.flaticon-mall-building:before { content: "\f13b"; }
+.flaticon-money-bag-of-dollars:before { content: "\f13c"; }
+.flaticon-money-cash-coins-hand:before { content: "\f13d"; }
+.flaticon-money-on-a-monitor:before { content: "\f13e"; }
+.flaticon-moneybox:before { content: "\f13f"; }
+.flaticon-monitor:before { content: "\f140"; }
+.flaticon-new-item-shopping-label:before { content: "\f141"; }
+.flaticon-online-customer-female-support:before { content: "\f142"; }
+.flaticon-open-shopping-sign:before { content: "\f143"; }
+.flaticon-open-store:before { content: "\f144"; }
+.flaticon-package:before { content: "\f145"; }
+.flaticon-package-1:before { content: "\f146"; }
+.flaticon-package-box-with-down-arrow:before { content: "\f147"; }
+.flaticon-package-boxes:before { content: "\f148"; }
+.flaticon-packages:before { content: "\f149"; }
+.flaticon-plastic-credit-card:before { content: "\f14a"; }
+.flaticon-price-label-for-commerce:before { content: "\f14b"; }
+.flaticon-price-label-with-discount-symbol:before { content: "\f14c"; }
+.flaticon-purse:before { content: "\f14d"; }
+.flaticon-sale-label:before { content: "\f14e"; }
+.flaticon-save-money-in-moneybox:before { content: "\f14f"; }
+.flaticon-save-money-tool:before { content: "\f150"; }
+.flaticon-shipping-truck:before { content: "\f151"; }
+.flaticon-shipping-truck-vehicle:before { content: "\f152"; }
+.flaticon-shoe-side:before { content: "\f153"; }
+.flaticon-shopping-bags:before { content: "\f154"; }
+.flaticon-shopping-bags-of-different-sizes-and-colors:before { content: "\f155"; }
+.flaticon-shopping-barcode:before { content: "\f156"; }
+.flaticon-shopping-basket:before { content: "\f157"; }
+.flaticon-shopping-basket-1:before { content: "\f158"; }
+.flaticon-shopping-cart-pointing-to-left:before { content: "\f159"; }
+.flaticon-shopping-checklist:before { content: "\f15a"; }
+.flaticon-shopping-online-support:before { content: "\f15b"; }
+.flaticon-shopping-support:before { content: "\f15c"; }
+.flaticon-shopping-support-calling:before { content: "\f15d"; }
+.flaticon-shopping-support-online:before { content: "\f15e"; }
+.flaticon-shopping-transport:before { content: "\f15f"; }
+.flaticon-sock:before { content: "\f160"; }
+.flaticon-square-shopping-bag-shape:before { content: "\f161"; }
+.flaticon-t-shirt-black-silhouette:before { content: "\f162"; }
+.flaticon-tablet-pdf-hand-pointing:before { content: "\f163"; }
+.flaticon-temple-building-with-columns:before { content: "\f164"; }
+.flaticon-up-arrow-on-bars-graphic:before { content: "\f165"; }
